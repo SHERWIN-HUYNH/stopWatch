@@ -1,0 +1,22 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  width:100vw;
+  background-color:black;
+}
+
+#root{
+  margin:0;
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  padding:0;
+  box-sizing:border-box;
+  background:#fff;
+}
